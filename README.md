@@ -18,7 +18,7 @@ uart_system.v for details on what each parameter means.
 
 The loopback_test block diagram is here:
 
-![Loopback Test](https://github.com/sarchar/uart_de0_nano/block_diagram.png)
+![Loopback Test](https://github.com/sarchar/uart_de0_nano/blob/master/block_diagram.png)
 
 ## Clocks
 
